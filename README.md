@@ -1,2 +1,2 @@
 # web-channel
-Event driven websocket server using redis to queue messages
+pub/sub messaging service using redis and web socket
